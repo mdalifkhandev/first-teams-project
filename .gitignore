@@ -1,0 +1,33 @@
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.staging
+.env*.local
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+.expo/
+.next/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Editor
+.idea/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
